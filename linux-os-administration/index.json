@@ -1,0 +1,46 @@
+{
+  "title": "Linux OS Administration - Intermedia/Advanced",
+  "description": "Learn Linux OS administrations, base OS ubuntu 20.04",
+  "difficulty": "Beginner",
+  "time": "3 hours",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1 Files and Systems",
+        "text": "step1_files_systems.md"
+      },
+      {
+        "title": "Step 2 Processes",
+        "text": "step2_process.md"
+      },
+      {
+        "title": "Step 3 I/O redirection",
+        "text": "step3_io_redirection.md"
+      },
+      {
+        "title": "Step 4 Text Editors",
+        "text": "step4_text_editors.md"
+      },
+      {
+        "title": "Step 5 Home",
+        "text": "step5_home.md"
+      },
+      {
+        "title": "Step 6 Shell Scripts",
+        "text": "step6_shell_scripts.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+}
